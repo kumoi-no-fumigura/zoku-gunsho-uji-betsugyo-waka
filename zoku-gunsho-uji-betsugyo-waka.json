@@ -439,6 +439,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 4,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-uji-betsugyo-waka",
   "work": "宇治別業和歌",
@@ -451,7 +455,7 @@
   "blocks": 4,
   "chars": 1008,
   "poems": 24,
-  "yaku": 0,
+  "yaku": 4,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T21:24:37+09:00"
